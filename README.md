@@ -15,10 +15,8 @@ This example is not meant to be production ready, rather an example of how to us
 ```
 
 #### To use
-In a seperate terminal 
-```bash
-node
-```
+In browser console
+
 ```javascript
 authToken= "add your token"
 fetch('/user/data', {
